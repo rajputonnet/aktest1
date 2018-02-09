@@ -1,0 +1,36 @@
+Problem: Payroll Program
+
+Specification
+
+You are to write a program which will read payroll data from a CSV format file.
+Each record in the file information for an employee’s payslip.
+You are to read through the file, and output a formatted payslip to an output file.
+
+The program should ask the user for the name of the input data file, defaulting to CA1-Payroll-Data.csv.
+
+The program should ask the user for the name of the output file, defaulting to CA1-Payroll-Output.txt
+
+The program should ask the user for a start and end date, and process all records with dates between
+(and including) the start and end date. If the user enters a blank end-date, then this means only records matching the start-date should be processed.
+
+As the program is running, it should output a status message to the screen indicating the
+name and employee number of the employee being processed.
+
+
+Problem: Payroll Program
+
+Specification
+
+Develop a program which will read payroll data from a CSV format file.
+Each record has information of an employee’s payslip.
+Read data through the file, and output a formatted payslip to an output file.
+
+The program should ask the user for the name of the input data file, defaulting to CA1-Payroll-Data.csv.
+
+The program should ask the user for the name of the output file, defaulting to CA1-Payroll-Output.txt
+
+The program should ask the user for a start and end date, and process all records with dates between
+(and including) the start and end date. If the user enters a blank end-date, then this means only records matching the start-date should be processed.
+
+As the program is running, it should output a status message to the screen indicating the
+name and employee number of the employee being processed.
